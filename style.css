@@ -13,6 +13,8 @@ body {
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
+    border: double;
+    padding: px;
 }
 
 .bordered {
@@ -26,4 +28,24 @@ body {
     text-align: center;
     width: 100%;
     padding: auto;
+}
+
+.window {
+    max-width: 75%;
+    margin-right: auto;;
+    margin-left: 1%;
+
+    color: #f4d7f0;
+    /*background: #221D29;*/
+    background: #333333;
+}
+
+.sidebar {
+    max-width: 22%;
+    margin-left: auto;
+    margin-right: 1%;
+
+    color: #f4d7f0;
+    /*background: #221D29;*/
+    background: #333333;
 }
