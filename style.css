@@ -26,8 +26,8 @@ body {
 }
 
 .heading {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
 
     display:block;
     text-align: center;
@@ -39,10 +39,27 @@ body {
     text-shadow: 0 0 10px #000000;
 }
 
+.button1 {
+    color: #f4d7f0;
+    font-size: 16px;
+    background-color: #221D29;
+    border: 3px solid #352E40;
+
+    width: 100%;
+    margin-bottom: 8px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: auto;
+}
+
+.button1:hover {
+    background-color: #352E40;
+}
+
 .fullimage {
     display: block;
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 }
 
 .topbar {
@@ -77,6 +94,7 @@ body {
     margin-bottom: 8px;
     padding-left: 2.5%;
     padding-right: 2.5%;
+    /*padding-bottom: 2.5%;*/
 
     box-sizing: border-box;
     border-style: solid;
