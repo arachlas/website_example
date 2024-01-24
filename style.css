@@ -103,3 +103,27 @@ body {
 
     background: #221D29;
 }
+
+@keyframes gay{
+    0%{opacity: 71%;}
+    5%{opacity: 69%;}
+    10%{opacity: 58%;}
+    15%{opacity: 62%;}
+    20%{opacity: 56%;}
+    25%{opacity: 65%;}
+    30%{opacity: 55%;}
+    35%{opacity: 56%;}
+    40%{opacity: 52%;}
+    45%{opacity: 54%;}
+    50%{opacity: 50%;}
+    55%{opacity: 72%;}
+    60%{opacity: 63%;}
+    65%{opacity: 75%;}
+    70%{opacity: 71%;}
+    75%{opacity: 60%;}
+    80%{opacity: 58%;}
+    85%{opacity: 65%;}
+    90%{opacity: 57%;}
+    95%{opacity: 71%;}
+    100%{opacity: 69%;}
+}
